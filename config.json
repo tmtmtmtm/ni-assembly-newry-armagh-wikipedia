@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Newry_and_Armagh_(Assembly_constituency)",
+  "wikidata": [{
+    "id": "Q7019151",
+    "start": "1996",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
