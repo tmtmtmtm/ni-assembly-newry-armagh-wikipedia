@@ -1,0 +1,72 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q8013107,William Irwin,Q215519,Democratic Unionist Party,9760,Q28231972,2017 Assembly election,1
+,Q5052017,Cathal Boylan,Q76382,Sinn Féin,9197,Q28231972,2017 Assembly election,2
+,Q6317891,Justin McNulty,Q175443,Social Democratic and Labour Party,10085,Q28231972,2017 Assembly election,3
+,Q6808653,Megan Fearon,Q76382,Sinn Féin,9175,Q28231972,2017 Assembly election,4
+,Q578710,Conor Murphy,Q76382,Sinn Féin,9018,Q28231972,2017 Assembly election,5
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,7939,Q28231972,2017 Assembly election,6
+Q76130680,,Jackie Coade,Q244927,Alliance Party of Northern Ireland,1418,Q28231972,2017 Assembly election,7
+,,Emmet Crossan,Q19903723,Cannabis Is Safer Than Alcohol,704,Q28231972,2017 Assembly election,8
+,,Rowan Tunnicliffe,Q1096979,Green Party in Northern Ireland,265,Q28231972,2017 Assembly election,9
+,Q8013107,William Irwin,Q215519,Democratic Unionist Party,7980,Q16973450,2016 Assembly election,1
+,Q6808653,Megan Fearon,Q76382,Sinn Féin,6838,Q16973450,2016 Assembly election,2
+,Q5052017,Cathal Boylan,Q76382,Sinn Féin,6822,Q16973450,2016 Assembly election,3
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,9595.30,Q16973450,2016 Assembly election,4
+,Q578710,Conor Murphy,Q76382,Sinn Féin,6442.35,Q16973450,2016 Assembly election,5
+,Q6317891,Justin McNulty,Q175443,Social Democratic and Labour Party,5701.20,Q16973450,2016 Assembly election,6
+,Q6369878,Karen McKevitt,Q175443,Social Democratic and Labour Party,5042.20,Q16973450,2016 Assembly election,7
+Q76119832,,Sam Nicholson,Q841045,Ulster Unionist Party,2220.45,Q16973450,2016 Assembly election,8
+,Q10999286,Paul Berry,Q327591,Independent politician,1998.95,Q16973450,2016 Assembly election,9
+,,Emmet Crossan,Q19903723,Cannabis Is Safer Than Alcohol,1308.60,Q16973450,2016 Assembly election,10
+,,Martin McAllister,Q327591,Independent (politician),1003.50,Q16973450,2016 Assembly election,11
+,,Craig Weir,Q244927,Alliance Party of Northern Ireland,597.05,Q16973450,2016 Assembly election,12
+Q76130571,,Alan Love,Q10647,UKIP,349.20,Q16973450,2016 Assembly election,13
+,,Michael Watters,Q1096979,Green Party in Northern Ireland,337.40,Q16973450,2016 Assembly election,14
+,Q578710,Conor Murphy,Q76382,Sinn Féin,9127,Q7058474,2011 Assembly election,1
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,8718,Q7058474,2011 Assembly election,2
+,Q5290471,Dominic Bradley,Q175443,Social Democratic and Labour Party,7123,Q7058474,2011 Assembly election,3
+,Q5052017,Cathal Boylan,Q76382,Sinn Féin,8092,Q7058474,2011 Assembly election,4
+,Q8013107,William Irwin,Q215519,Democratic Unionist Party,7502,Q7058474,2011 Assembly election,5
+,Q6838584,Mickey Brady,Q76382,Sinn Féin,5625,Q7058474,2011 Assembly election,6
+,,Thomas O'Hanlon,Q175443,Social Democratic and Labour Party,5014,Q7058474,2011 Assembly election,7
+,,Barrie Halliday,Q985076,Traditional Unionist Voice,1240,Q7058474,2011 Assembly election,8
+,,David Murphy,Q244927,Alliance Party of Northern Ireland,840,Q7058474,2011 Assembly election,9
+,,Robert Woods,Q10647,UK Independence Party,126,Q7058474,2011 Assembly election,10
+,,James Malone,Q327591,Independent (politician),100,Q7058474,2011 Assembly election,11
+,Q578710,Conor Murphy,Q76382,Sinn Féin,7437,Q2562399,2007 Assembly election,1
+,Q5052017,Cathal Boylan,Q76382,Sinn Féin,7105,Q2562399,2007 Assembly election,2
+,Q6838584,Mickey Brady,Q76382,Sinn Féin,7514,Q2562399,2007 Assembly election,3
+,Q8013107,William Irwin,Q215519,Democratic Unionist Party,8008,Q2562399,2007 Assembly election,4
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,7653,Q2562399,2007 Assembly election,5
+,Q5290471,Dominic Bradley,Q175443,Social Democratic and Labour Party,6311,Q2562399,2007 Assembly election,6
+,,Sharon Haughey,Q175443,Social Democratic and Labour Party,5368,Q2562399,2007 Assembly election,7
+,Q10999286,Paul Berry,Q327591,Independent (politician),2526,Q2562399,2007 Assembly election,8
+,Q5242200,Davy Hyland,Q327591,Independent (politician),2268,Q2562399,2007 Assembly election,9
+,Q8021514,Willie Frazer,Q327591,Independent (politician),605,Q2562399,2007 Assembly election,10
+,,Brendan Morgan,Q1096979,Green Party of Northern Ireland,599,Q2562399,2007 Assembly election,11
+,Q65583812,Máire Hendron,Q244927,Alliance Party of Northern Ireland,278,Q2562399,2007 Assembly election,12
+,Q10999286,Paul Berry,Q215519,Democratic Unionist Party,8125,Q2076187,2003 Assembly Election,1
+,Q578710,Conor Murphy,Q76382,Sinn Féin,7595,Q2076187,2003 Assembly Election,2
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,7347,Q2076187,2003 Assembly Election,3
+,Q5290471,Dominic Bradley,Q175443,Social Democratic and Labour Party,6783,Q2076187,2003 Assembly Election,4
+,Q5242200,Davy Hyland,Q76382,Sinn Féin,6634,Q2076187,2003 Assembly Election,5
+,Q7143875,Pat O'Rawe,Q76382,Sinn Féin,5712,Q2076187,2003 Assembly Election,6
+,,Jim Lennon,Q175443,Social Democratic and Labour Party,5113,Q2076187,2003 Assembly Election,7
+,Q6232854,John Fee,Q175443,Social Democratic and Labour Party,3657,Q2076187,2003 Assembly Election,8
+,,Freda Donnelly,Q215519,Democratic Unionist Party,1639,Q2076187,2003 Assembly Election,9
+,Q8021514,Willie Frazer,Q327591,Independent (politician),744,Q2076187,2003 Assembly Election,10
+Q98342240,,Pete Whitcroft,Q244927,Alliance Party of Northern Ireland,315,Q2076187,2003 Assembly Election,11
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,13582,Q2076208,1998 Assembly election,1
+,Q10999286,Paul Berry,Q215519,Democratic Unionist Party,7900,Q2076208,1998 Assembly election,2
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,10184,Q2076208,1998 Assembly election,3
+,Q578710,Conor Murphy,Q76382,Sinn Féin,7741,Q2076208,1998 Assembly election,4
+,Q7143777,Patrick McNamee,Q76382,Sinn Féin,7177,Q2076208,1998 Assembly election,5
+,Q6232854,John Fee,Q175443,Social Democratic and Labour Party,7169,Q2076208,1998 Assembly election,6
+,Q5486569,Frank Feely,Q175443,Social Democratic and Labour Party,5875,Q2076208,1998 Assembly election,7
+,Q5242200,Davy Hyland,Q76382,Sinn Féin,5284,Q2076208,1998 Assembly election,8
+,Q17017215,Jim Speers,Q841045,Ulster Unionist Party,4799,Q2076208,1998 Assembly election,9
+,,Kate Fearon,Q7058538,Northern Ireland Women's Coalition,1636,Q2076208,1998 Assembly election,10
+,,Mary Allen,Q327591,Independent (politician),1398,Q2076208,1998 Assembly election,11
+,Q8021514,Willie Frazer,Q7879973,Ulster Independence Movement,948,Q2076208,1998 Assembly election,12
+Q98273207,,Peter Whitcroft,Q244927,Alliance Party of Northern Ireland,861,Q2076208,1998 Assembly election,13
+Q98273167,,David Evans,Q491782,Natural Law Party,23,Q2076208,1998 Assembly election,14
